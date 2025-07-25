@@ -2,7 +2,7 @@
 
 ### Job Summary
 
-This job will run fastQC on Hydra in a loop using trimmed genomics reads. Output files will be copied to a directory named 'fastqc_trimmed_results'. To run the script see 'To Run this Job' below.
+This job will run fastQC on Hydra in a loop using trimmed genomic reads. Output files will be copied to a directory named 'fastqc_trimmed_results'. To run the script see 'To Run this Job' below.
 
 ```
 #!/bin/sh
