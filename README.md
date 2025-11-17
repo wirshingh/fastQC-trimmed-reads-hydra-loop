@@ -64,7 +64,7 @@ echo = `date` job $JOB_NAME done
 
 ### To Run this Job
 
-The raw read files must end in '_R1_PE_trimmed.fastq.gz' (forward) and '_R2_PE_trimmed.fastq.gz' (reverse) for the script to work. Alternatively, the job file can be edited to match the text of the file names of the R1 and R2 reads after the sample name.
+The trimmed reads files must end in '_R1_PE_trimmed.fastq.gz' (forward) and '_R2_PE_trimmed.fastq.gz' (reverse) for the script to work. Alternatively, the job file can be edited to match the text of the file names of the R1 and R2 reads after the sample name.
 
 Edit these items in the job file:
 
